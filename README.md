@@ -1,7 +1,9 @@
 # Covid-19-Data-Exploration
-## Data exploration Covid 19 data using MySQL.
+
+## Data exploration of Covid 19 data.
 
 In this project, I explored Covid 19 data using MySQL.
+
 Skills Used:
 
     Joins,
